@@ -1,0 +1,22 @@
+id: DF2D83354
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T07:07:16+00:00'
+last_modified: '2022-05-27T05:28:30.037245+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    1cb6:
+      image_group_id: I1PD95901
+      title: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ།
+      total_pages: 1682
+      order: 56
+      base_file: 1cb6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
